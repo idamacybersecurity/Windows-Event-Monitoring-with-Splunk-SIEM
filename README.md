@@ -22,7 +22,7 @@ The goal of this project was to simulate how SOC analysts monitor endpoint activ
 # 🧰 Tools & Technologies Used
 - Splunk Enterprise
 - Splunk Universal Forwarder
-- Windows 10
+- Windows 11
 - Windows Event Viewer
 - SIEM Monitoring
 
@@ -32,7 +32,7 @@ The goal of this project was to simulate how SOC analysts monitor endpoint activ
 
 | Component | Description |
 |---|---|
-| Operating System | Windows 10 |
+| Operating System | Windows 11 |
 | SIEM Platform | Splunk Enterprise |
 | Log Source | Windows Event Logs |
 | Data Collection | Splunk Universal Forwarder |
