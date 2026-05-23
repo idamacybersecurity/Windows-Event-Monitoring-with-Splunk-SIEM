@@ -60,7 +60,7 @@ The goal of this project was to simulate how SOC analysts monitor endpoint activ
 <h3 align="center">After successfully installing Splunk Enterprise, I accessed the Splunk web interface through the localhost web portal.</h3>
 
 <p align="center">
-    <img src="image2.svg">
+    <img src="image2.png">
 </p>
 
 <h3 align="center">In this step, I configured the Splunk Universal Forwarder to communicate with the Splunk server</h3>
